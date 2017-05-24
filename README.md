@@ -3,6 +3,8 @@
 
 https://glitch.com/edit/#!/whip-watchmaker?path=server.js:1:0
 
+### Project URL: https://whip-watchmaker.glitch.me
+
 ### User stories :
 
 1. The API endpoint is `GET [project_url]/api/timestamp/:date_string?`
